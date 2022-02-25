@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:sproteste/app/characters/characters_page.dart';
 import 'package:sproteste/app/characters/model/character.dart';
-import 'package:sproteste/app/characters/single_character_page.dart';
-import 'package:sproteste/app/home/home_page.dart';
+import 'package:sproteste/app/characters/view/characters_page.dart';
+import 'package:sproteste/app/characters/view/single_character_page.dart';
+import 'package:sproteste/app/home/view/home_page.dart';
 import 'package:sproteste/theme/custom_theme.dart';
 
 void main() {
